@@ -157,23 +157,31 @@ Student grade management system with full CRUD, search/sort, and performance-tes
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Dev Quote
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaybharvad007&theme=tokyo-night&hide_border=true&area=true&color=6AD3F7&line=6AD3F7&point=ffffff" alt="activity graph"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 
 </div>
 
-<!-- ===== OPTIONAL: CONTRIBUTION SNAKE ANIMATION =====
-   To enable the snake, add the workflow file (snake.yml) I provided
-   into .github/workflows/ in this repo, run it once, then uncomment
-   the block below.
+---
+
+## 🤝 Let's Build Something
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sanjaybharvad007/sanjaybharvad007/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+I'm always open to collaborating on **data engineering, distributed systems, or high-performance C++** projects.
+Got an idea, a role, or just want to talk shop? My inbox is open.
+
+<a href="mailto:sanjaybharvad1312@gmail.com">
+<img src="https://img.shields.io/badge/Say%20Hello-6AD3F7?style=for-the-badge&logo=gmail&logoColor=white" alt="say hello"/>
+</a>
+<a href="https://www.linkedin.com/in/sanjay-bharvad-70b1a724a/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect"/>
+</a>
+
 </div>
--->
 
 ---
 
