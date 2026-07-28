@@ -134,34 +134,14 @@ Student grade management system with full CRUD, search/sort, and performance-tes
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Words I Live By
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjaybharvad007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaybharvad007&theme=tokyonight&hide_border=true" alt="streak"/>
+### *"The best time to plant a tree was 20 years ago.*
+### *The second best time is now."*
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaybharvad007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjaybharvad007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
----
-
-## 💡 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+**— Proverb**
 
 </div>
 
