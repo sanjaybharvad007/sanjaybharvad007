@@ -101,28 +101,35 @@ I'm a **Software Engineer / Data Engineer** and **MS Data Science student at San
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### [distributed-data-pipeline](https://github.com/sanjaybharvad007/distributed-data-pipeline)
-Distributed ingestion/processing pipeline in Python handling batched and streaming workloads with retries and fault tolerance.
-`Python` `Kafka` `Spark`
+### [ExchangeSim](https://github.com/sanjaybharvad007/ExchangeSim)
+Limit order book & matching engine in C++20 with price-time priority (the rule real exchanges use), partial fills, and O(1) cancels. Benchmarked at ~5.9M orders/sec, ~170ns per order.
+`C++20` `Low-Latency` `Systems`
 
-### [alpha-vantage-snowflake](https://github.com/sanjaybharvad007/alpha-vantage-snowflake)
-End-to-end ETL pulling market data from the Alpha Vantage API, staging/validating, and loading into Snowflake.
-`Python` `Airflow` `Snowflake`
+### [spsc-queue](https://github.com/sanjaybharvad007/spsc-queue)
+Lock-free single-producer/single-consumer ring buffer with acquire/release memory ordering. Verified race-free under ThreadSanitizer; ~7x faster per operation than a mutex-based queue.
+`C++20` `Lock-Free` `Concurrency`
 
-### [cpp-log-engine](https://github.com/sanjaybharvad007/cpp-log-engine)
-High-throughput C++ logging engine with buffered I/O, thread-safe write paths, and low-allocation design.
-`C++` `Concurrency`
+### [shopflow](https://github.com/sanjaybharvad007/shopflow)
+Polyglot e-commerce microservices platform — Go gateway, Java order service, Python recommendations, C++ pricing engine, TypeScript storefront, and a SQL schema, wired together with Docker Compose.
+`Go` `Java` `Python` `C++` `TypeScript`
 
-### [MyStock](https://github.com/sanjaybharvad007/MyStock)
-Stock analysis and forecasting with time-series feature engineering, model comparison, and backtesting.
-`Python` `Pandas` `Matplotlib`
+### [hyperscale-infra](https://github.com/sanjaybharvad007/hyperscale-infra)
+Distributed job-processing system in Go: concurrent worker pool with retries and fault tolerance (race-detector verified), scaling from ~400 to ~6,500 jobs/sec. Ships with Kubernetes manifests and Terraform.
+`Go` `Kubernetes` `Terraform`
 
-### [CheckMyGrade](https://github.com/sanjaybharvad007/CheckMyGrade)
-Student grade management system with full CRUD, search/sort, and performance-tested data access.
-`Java` `SQL`
+### [llm-agentkit](https://github.com/sanjaybharvad007/llm-agentkit)
+From-scratch RAG pipeline and multi-agent orchestration toolkit on the OpenAI API — document chunking, embeddings, cosine-similarity retrieval, and a Planner → Researcher → Writer agent workflow.
+`Python` `OpenAI` `RAG`
+
+### [user-analytics](https://github.com/sanjaybharvad007/user-analytics)
+Product analytics & A/B testing platform with real statistical significance testing (Welch's t-test + chi-square), KPI metrics, funnel analysis, and optimized SQL.
+`Python` `SQL` `Statistics`
+
+### [kvstore](https://github.com/sanjaybharvad007/kvstore)
+A persistent key-value database built from scratch: an O(1) LRU cache (hashmap + doubly linked list), a write-ahead log, and crash recovery. ~188K writes/sec, ~478K reads/sec.
+`Python` `Data Structures` `Systems`
 
 ---
 
