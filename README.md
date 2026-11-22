@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineer / Data Engineer** and **MS Data Science student at San Jose State University** *(Aug 2025 – May 2027)*. I like turning messy, ambiguous problems into reliable systems — from low-level C++ write paths to end-to-end data pipelines.
+I'm a **Software Engineer / AI Engineer** and **MS Data Science student at San Jose State University** *(Aug 2025 – May 2027)*. I like turning messy, ambiguous problems into reliable systems — from low-level C++ write paths to end-to-end data pipelines.
 
 - 🔄 Comfortable across the full data path: **ingestion → transformation → warehouse → serving**
 - ❄️ Build **ETL pipelines** that load market data into **Snowflake** via the Alpha Vantage API
